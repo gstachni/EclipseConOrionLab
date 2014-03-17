@@ -1,0 +1,1 @@
+{"Name":"NHL Stadiums","Description":"Stadiums of the National Hockey League\n","Dependencies":[{"Type":"git","Location":"https://github.com/twbs/bootstrap.git","Name":"bootstrap at github.com"}]}
